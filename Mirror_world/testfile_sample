@@ -1,0 +1,14 @@
+# Test file - All numbers are in floating point except for number of items
+600.0 720.0         # width (x) and height (y) of the world
+1  # No. of Projectors
+-60.0 -240.0 90.0 -240.0  # Projector 1 line : x1 y1 x2 y2
+20.0  # distance (d)
+20  # No of pixels
+3  # No of blocks
+-180.0 -180.0 -180.0 0.0 # Block 1 line : x1 y1 x2 y2
+-150.0 220.0 0.0 220.0  #
+180.0 140.0 270.0 60.0  #
+3 # No of Mirrors
+-150.0 100.0 -30.0 120.0 # Mirror 1 line : x1 y1 x2 y2
+220.0 120.0 120.0 205.0 #
+0 -100 200 -200  #
